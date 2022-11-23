@@ -1,7 +1,7 @@
 # Gomuku
 ## Description
 
-This is a gomuku console app using c#. It provides some basic functions such as CLI interfacem, gomuku game, PvP, PvC, undo, redo, game saving, game loading, and online help link. I also used obejct oriented programming pattern in this project. Firstly, i used Template pattern which is uisg abstract class BoardGame. It is possible to generate other type of boardgame without straing from scratch. Secondly, i used Factory pattern which can generate specific type of player such as human player and computer player in run time.
+This is a gomuku console app using c#. It provides some basic functions such as CLI interfacem, gomuku game, PvP, PvC, undo, redo, game saving, game loading, and online help link. I also used obejct oriented programming pattern in this project. Firstly, i used Template pattern which is using abstract class BoardGame. It is possible to generate other type of boardgame without straing from scratch. Secondly, i used Factory pattern which can generate specific type of player such as human player and computer player in run time.
 
 ## User Guide
 
