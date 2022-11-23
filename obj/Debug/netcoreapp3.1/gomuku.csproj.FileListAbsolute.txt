@@ -1,0 +1,13 @@
+C:\Users\Steve's NR200\source\repos\gomuku\bin\Debug\netcoreapp3.1\gomuku.exe
+C:\Users\Steve's NR200\source\repos\gomuku\bin\Debug\netcoreapp3.1\gomuku.deps.json
+C:\Users\Steve's NR200\source\repos\gomuku\bin\Debug\netcoreapp3.1\gomuku.runtimeconfig.json
+C:\Users\Steve's NR200\source\repos\gomuku\bin\Debug\netcoreapp3.1\gomuku.runtimeconfig.dev.json
+C:\Users\Steve's NR200\source\repos\gomuku\bin\Debug\netcoreapp3.1\gomuku.dll
+C:\Users\Steve's NR200\source\repos\gomuku\bin\Debug\netcoreapp3.1\gomuku.pdb
+C:\Users\Steve's NR200\source\repos\gomuku\obj\Debug\netcoreapp3.1\gomuku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steve's NR200\source\repos\gomuku\obj\Debug\netcoreapp3.1\gomuku.AssemblyInfoInputs.cache
+C:\Users\Steve's NR200\source\repos\gomuku\obj\Debug\netcoreapp3.1\gomuku.AssemblyInfo.cs
+C:\Users\Steve's NR200\source\repos\gomuku\obj\Debug\netcoreapp3.1\gomuku.csproj.CoreCompileInputs.cache
+C:\Users\Steve's NR200\source\repos\gomuku\obj\Debug\netcoreapp3.1\gomuku.dll
+C:\Users\Steve's NR200\source\repos\gomuku\obj\Debug\netcoreapp3.1\gomuku.pdb
+C:\Users\Steve's NR200\source\repos\gomuku\obj\Debug\netcoreapp3.1\gomuku.genruntimeconfig.cache
